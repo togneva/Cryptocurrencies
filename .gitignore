@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+Folders
+Resources/
+Practice_Unsupervised_ML/
+
+Files
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
